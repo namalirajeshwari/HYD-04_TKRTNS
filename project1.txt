@@ -1,0 +1,22 @@
+//cosider an integer values
+
+int[5]={'1','2','3','4','5'}:
+
+//key element as K.E=3
+
+i=0:
+int[i]=K.E:
+
+wrong 
+
+i=1:
+int[i]=K.E:
+
+wrong
+
+i=2:
+int[i]=K.E:
+
+yes
+
+K.E is the end of array so, it is worst linear searching
